@@ -1,9 +1,7 @@
-// This timetable will tell you what you have on your schedule today when you type the the name of the day.
+// I created this game where you have to guess between two answers to gain points
 
-// For example, 
+// The person  with the highest points wins the game
 
-//if you type 'Monday'
+// Hope you enjoy!
 
-//it might respond 'Basketball' or 'Meeting with John'
-
-Hope you enjoy using this!
+//BLAZE
